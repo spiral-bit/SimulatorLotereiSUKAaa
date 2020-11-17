@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SimLottery</string>
+    <string name="label_mode_3_3">Режим 3 на 3 клетки</string>
+    <string name="reward_x2_label">Удвоить награду</string>
+    <string name="take_reward_label">Забрать награду</string>
+
+    <!--    <string name="admob_app_id">ca-app-pub-7780453585001831~9681328602</string>-->
+    <!--    <string name="admob_banner_id">ca-app-pub-7780453585001831/1097435035</string>-->
+    <!--    <string name="admob_rewarded_id">ca-app-pub-7780453585001831/8871983279</string>-->
+    <!--    <string name="admob_interstitial_id">ca-app-pub-7780453585001831/3532026680</string>-->
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_rewarded_id">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/8691691433</string>
+    <string name="mode_label_1_3">Режим 1 на 3 клетки</string>
+    <string name="label_mode_1_1">Режим 1 на 1 клетку</string>
+    <string name="add_not_now_toast">Извините, сейчас рекламы нет :(</string>
+    <string name="empty_label">Пусто :(</string>
+    <string name="shop_label">Магазин</string>
+</resources>
